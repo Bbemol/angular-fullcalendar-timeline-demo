@@ -1,0 +1,19 @@
+{
+  "agents": [
+    {
+      "id": 1,
+      "name": "Dupont",
+      "availability": []
+    },
+    {
+      "id": 2,
+      "name": "Beauregard",
+      "availability": []
+    },
+    {
+      "id": 3,
+      "name": "Durand",
+      "availability": []
+    }
+  ]
+}

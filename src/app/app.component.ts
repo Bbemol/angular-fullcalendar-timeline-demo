@@ -15,6 +15,7 @@ export class AppComponent {
   eventsId: number = 0;
   calendarOptions: CalendarOptions = {
     initialView: 'resourceTimelineDay',
+    eventOverlap: false,
     headerToolbar: {
       left: 'prev,next',
       center: 'title',
